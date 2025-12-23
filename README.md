@@ -15,4 +15,5 @@
 Данных не очень много (127 файлов в общей сложности), так что кластеризацию я буду проводить вслепую, без обучения. После кластеризации я хочу посмотреть, что больше повлияло на кластеры -- вид изделия, дизайнер или какие-то особенности конкретных пдфок.
 
 --> [тетрадка с результатами здесь](https://colab.research.google.com/drive/1Sxitq8x1DRUkDJfQm7onsDdMTnaAexfI?usp=sharing)
+
 --> [папка с pdf-файлами здесь](https://drive.google.com/drive/folders/1otfLRNHr8-09kmYVglwCJJgVvLeXtyiC?usp=sharing)
